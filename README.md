@@ -1,11 +1,12 @@
 This is a katate BDD project which validates the API functionality of the end point
 
 
-Requirements
+#Requirements
 Java
 Maven
 
-## 📦 Build and Run
+#Build and Run
+mvn clean install
 
 # Clone the repo
 git clone https://github.com/Mokesh-Baskar/home-test-api.git
